@@ -8,7 +8,7 @@
 **[Full PDF]((공통논문)RAG_chap2_이나연.pdf)에서 더 자세한 내용을 확인하실 수 있습니다.**
 
 ## 1. 스터디 개요
-- RAG(Retrieval-Augmented Generation)는 **정보 검색(Retrieval)**과 **생성 모델(Generation)**을 결합한 하이브리드 모델입니다.
+- **RAG(Retrieval-Augmented Generation)** 는 **정보 검색(Retrieval)** 과 **생성 모델(Generation)** 을 결합한 하이브리드 모델입니다.
 - **Parametric Memory**: 모델 내부 가중치에 저장된 지식 (예: BART). 꺼내 쓰기는 빠르지만 최신 정보 반영이 어렵습니다.
 - **Non-parametric Memory**: 외부 데이터베이스(Wikipedia 등)에 저장된 지식. 최신 정보를 반영하고 명시적으로 참조하는 데 효율적입니다. 
 
