@@ -23,14 +23,14 @@
 
 ## 📅 로드맵 (6-Week Plan)
 - [x] **Week 1: Foundations** - 인공지능 입문 복습 및 최신 AI Engineering 기술 탐색
-- [ ] **Week 2: Core Paper Study** - RAG(Retrieval-Augmented Generation) 공통 논문 스터디 및 발표
+- [x] **Week 2: Core Paper Study** - RAG(Retrieval-Augmented Generation) 공통 논문 스터디 및 발표
 - [ ] **Week 3-4: Individual Research** - 멤버별 관심 분야 심화 논문 스터디 및 발표
 - [ ] **Week 5-6: Implementation** - 논문 핵심 알고리즘 구현 및 리포트 작성
 
 ---
 
 ## 📖 [Week 2] Core Paper Analysis
-### **[Paper]** [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (Lewis et al., 2020)
+### **[Paper]** [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (Lewis et al., 2020) 논문을 스터디하였습니다.
 
 | Part | Section Scope | 담당자 |
 | :--- | :--- | :---: |
