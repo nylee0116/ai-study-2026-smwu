@@ -5,7 +5,7 @@
 본 프로젝트는 **<FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness>** 논문의 **Algorithm 1**을 OpenAI Triton 및 Python을 이용해 직접 구현하고, 기존 방식(Naive Attention) 및 PyTorch Native API와의 성능 및 메모리 효율성을 비교 분석한 프로젝트입니다.
 
 > 💡 모든 실험 코드는 `.ipynb` 파일 또는 Google Colab 환경에서 확인하실 수 있습니다.
-> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab.research.google.com/github/nylee0116/ai-study-2026-smwu/blob/main/03_Individual_Project/FlashAttention_NayeonLee/FlashAttention_NayeonLee.ipynb)
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nylee0116/ai-study-2026-smwu/blob/main/03_Individual_Project/FlashAttention_NayeonLee/FlashAttention_NayeonLee.ipynb)
 
 ---
 
