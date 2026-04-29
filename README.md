@@ -58,9 +58,9 @@
 | Content | 담당자 |
 | :--- | :---: |
 | [GEPA (Reflective Prompt Evolution)] | 박채현 |
-| [FlashAttention (IO-Awareness)](./03_Individual_Project/FlashAttention_NayeonLee_FlashAttention_NayeonLee.md) | 이나연 |
+| [FlashAttention (IO-Awareness)](./03_Individual_Project/FlashAttention_NayeonLee/FlashAttention_NayeonLee.md) | 이나연 |
 | [LSTM-RNN (Workload Forecasting)] | 임효주 |
-| [Chain-of-Thought (CoT Reasoning)] | 김경민 |
+| [Chain-of-Thought (CoT Reasoning)](./03_Individual_Project/Self-Refine_GyeongminKim/Self_Refine_gmKim.ipynb) | 김경민 |
 
 ---
 
@@ -70,4 +70,3 @@
 ├── 02_Individual_Study/  # 멤버별 관심 분야 심화 연구
 └── 03_Individual_Project/    # 핵심 알고리즘 구현 소스 코드 및 프로젝트 리포트
 
----
