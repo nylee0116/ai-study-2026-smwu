@@ -10,11 +10,10 @@
 - **실전 구현:** 논문의 핵심 알고리즘을 직접 코드로 구현하며 연구 및 개발 역량을 동시에 강화합니다.
 
 
-
 ## 👥 스터디 멤버
 | 이름 | 전공 | 관심 분야 |
 | :--- | :--- | :--- |
-| **이나연** | 인공지능공학부 | Efficient AI, AI 보안 |
+| **이나연** | 인공지능공학부 | Efficient AI |
 | **김경민** | 인공지능공학부 | Prompt Engineering |
 | **박채현** | 인공지능공학부 | RAG |
 | **임효주** | 인공지능공학부 | AI Agent |
@@ -24,12 +23,12 @@
 ## 📅 로드맵 (6-Week Plan)
 - [x] **Week 1: Foundations** - 인공지능 입문 복습 및 최신 AI Engineering 기술 탐색
 - [x] **Week 2: Core Paper Study** - RAG(Retrieval-Augmented Generation) 공통 논문 스터디 및 발표
-- [ ] **Week 3-4: Individual Research** - 멤버별 관심 분야 심화 논문 스터디 및 발표
-- [ ] **Week 5-6: Implementation** - 논문 핵심 알고리즘 구현 및 리포트 작성
+- [x] **Week 3-4: Individual Study** - 멤버별 관심 분야 심화 논문 스터디 및 발표
+- [x] **Week 5-6: Implementation** - 논문 핵심 알고리즘 구현 및 리포트 작성
 
 ---
 
-## 📖 [Week 2] Core Paper Analysis
+## 📖 [Week 2] Common Paper Analysis
 ### **[Paper]** [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (Lewis et al., 2020) 논문을 스터디하였습니다.
 
 | Part | Section Scope | 담당자 |
@@ -41,8 +40,34 @@
 
 ---
 
+## 📖 [Week 3] Individual Paper Analysis
+### 각자 선택한 논문을 읽고 팀원들에게 스터디한 내용을 공유하는 시간을 가졌습니다.
+
+| Paper | 담당자 |
+| :--- | :---: |
+| GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning  | 박채현 |
+| FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness | 이나연 |
+| Long Short Term Memory Recurrent Neural Network (LSTM-RNN) Based Workload Forecasting Model For Cloud Datacenters | 임효주 |
+| Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | 김경민 |
+
+---
+
+## 📖 [Week 4] Individual Paper Implementation
+### 각자 선택한 논문의 핵심 알고리즘을 구현하였습니다.
+
+| Content | 담당자 |
+| :--- | :---: |
+| [GEPA (Reflective Prompt Evolution)] | 박채현 |
+| [FlashAttention (IO-Awareness)](./03_Individual_Project/FlashAttention_NayeonLee_FlashAttention_NayeonLee.md) | 이나연 |
+| [LSTM-RNN (Workload Forecasting)] | 임효주 |
+| [Chain-of-Thought (CoT Reasoning)] | 김경민 |
+
+---
+
 ## 📂 저장소 구조
 ```text
 ├── 01_Common_Study/     # 공통 논문(RAG) 스터디
 ├── 02_Individual_Study/  # 멤버별 관심 분야 심화 연구
 └── 03_Individual_Project/    # 핵심 알고리즘 구현 소스 코드 및 프로젝트 리포트
+
+---
