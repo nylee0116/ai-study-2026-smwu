@@ -47,7 +47,7 @@
 | :--- | :---: |
 | GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning  | 박채현 |
 | FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness | 이나연 |
-| Long Short Term Memory Recurrent Neural Network (LSTM-RNN) Based Workload Forecasting Model For Cloud Datacenters | 임효주 |
+| Long Short Term Memory Recurrent Neural Network(LSTM-RNN) Based Workload Forecasting Model For Cloud Datacenters | 임효주 |
 | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | 김경민 |
 
 ---
