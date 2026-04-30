@@ -40,7 +40,7 @@
 
 ---
 
-## 📖 [Week 3] Individual Paper Analysis
+## 📖 [Week 3-4] Individual Paper Analysis
 ### 각자 선택한 논문을 읽고 팀원들에게 스터디한 내용을 공유하는 시간을 가졌습니다.
 
 | Paper | 담당자 |
@@ -52,7 +52,7 @@
 
 ---
 
-## 📖 [Week 4] Individual Paper Implementation
+## 📖 [Week 5-6] Individual Paper Implementation
 ### 각자 선택한 논문의 핵심 알고리즘을 구현하였습니다.
 
 | Content | 담당자 |
